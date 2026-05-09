@@ -1,4 +1,4 @@
 import os
 
-items= os.listdir()
+items= os.listdir("test_data")
 print(items)
